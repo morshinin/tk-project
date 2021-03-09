@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/*
+Стили спрайта
+ */
+.bg-file {
+  width: 18px;
+  height: 20px;
+  background: url("./img/tk-project-sprite.png") -123px -10px; }
+
+.bg-magn {
+  width: 34px;
+  height: 35px;
+  background: url("./img/tk-project-sprite.png") -10px -10px; }
+
+.bg-perc {
+  width: 32px;
+  height: 32px;
+  background: url("./img/tk-project-sprite.png") -64px -56px; }
+
+.bg-sheet {
+  width: 31px;
+  height: 36px;
+  background: url("./img/tk-project-sprite.png") -10px -65px; }
+
+.bg-money {
+  width: 39px;
+  height: 26px;
+  background: url("./img/tk-project-sprite.png") -64px -10px; }
+
+.bg-qiwi {
+  width: 15px;
+  height: 15px;
+  background: url("css_sprites.png") -123px -50px; }
+
+.bg-yamoney {
+  width: 11px;
+  height: 15px;
+  background: url("css_sprites.png") -10px -121px; }
+
+.bg-webmoney {
+  width: 15px;
+  height: 15px;
+  background: url("css_sprites.png") -123px -85px; }
+
+/*
+Reboot
+ */
+html {
+  font-family: sans-serif;
+  line-height: 1.15; }
+
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block; }
+
+body {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff; }
+
+/*
+Типографика
+ */

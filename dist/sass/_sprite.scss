@@ -1,0 +1,50 @@
+/*
+Стили спрайта
+ */
+// Иконка файла
+.bg-file {
+  width: 18px; height: 20px;
+  background: url('./img/tk-project-sprite.png') -123px -10px;
+}
+
+// Иконка лупы
+.bg-magn {
+  width: 34px; height: 35px;
+  background: url('./img/tk-project-sprite.png') -10px -10px;
+}
+
+// Процент
+.bg-perc {
+  width: 32px; height: 32px;
+  background: url('./img/tk-project-sprite.png') -64px -56px;
+}
+
+// Документ
+.bg-sheet {
+  width: 31px; height: 36px;
+  background: url('./img/tk-project-sprite.png') -10px -65px;
+}
+
+// Деньги
+.bg-money {
+  width: 39px; height: 26px;
+  background: url('./img/tk-project-sprite.png') -64px -10px;
+}
+
+// Qiwi
+.bg-qiwi {
+  width: 15px; height: 15px;
+  background: url('css_sprites.png') -123px -50px;
+}
+
+// Яндекс деньги
+.bg-yamoney {
+  width: 11px; height: 15px;
+  background: url('css_sprites.png') -10px -121px;
+}
+
+// Webmoney
+.bg-webmoney {
+  width: 15px; height: 15px;
+  background: url('css_sprites.png') -123px -85px;
+}
